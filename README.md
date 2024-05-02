@@ -19,6 +19,7 @@ sam build --manifest package.json
 ### Requirements 
 You need aws cli and aws sam instaled and already configured
 
+### depoy
 Next, you build the application
 
 ```sh
